@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou o Netson Cavina</h1>
 <h3 align="center">Sou apaixonado por tecnologia e programação</h3>
 
-- Atualmente estou estudando React e Node
+- Atualmente estou estudando React Native e Typescript
 - Acesse meu portfólio! 
-https://netson-portfolio.herokuapp.com
+https://netson-portfolio.vercel.app
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
