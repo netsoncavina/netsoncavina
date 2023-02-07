@@ -8,12 +8,12 @@ https://netson-portfolio.vercel.app
 <h3 align="left">Entre em contato comigo:</h3>   <a href="https://www.linkedin.com/in/netson-cavina-487736115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/netson-cavina-487736115/" height="40" width="40" /></a>
 <br></br>
 
-
+<!-- 
 <div align="center">
   <a href="https://github.com/netsoncavina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netsoncavina&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netsoncavina&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
   <br></br>
   <div style="display: inline_block" align="center"><br>
     <img align="justify" alt="Javascript Logo" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
