@@ -2,6 +2,7 @@
 <h3 align="center">Sou apaixonado por tecnologia e programação</h3>
 
 - Atualmente estou estudando React Native e Typescript
+- Possuo 3 anos de experiência em desenvolvimento web
 - Acesse meu portfólio! 
 https://netson-portfolio.vercel.app
 
