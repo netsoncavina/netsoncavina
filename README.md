@@ -2,7 +2,7 @@
 <h3 align="center">Sou apaixonado por tecnologia e programação</h3>
 
 - Desenvolvedor fullstack
-- Atualmente estou estudando React Native e Typescript
+- Atualmente estou focando em NextJs, React Native e Typescript
 - Possuo 5 anos de experiência em desenvolvimento web
 - 2 anos de Desenvolvimento Mobile
 
