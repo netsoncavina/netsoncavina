@@ -2,9 +2,9 @@
 <h3 align="center">Sou apaixonado por tecnologia e programação</h3>
 
 - Desenvolvedor fullstack
-- Atualmente estou focando em NextJs, React Native e Typescript
-- Possuo 5 anos de experiência em desenvolvimento web
-- 2 anos de Desenvolvimento Mobile
+- Atualmente atuo como Desenvolvedor Júnior, utilizando Flutter, NodeJs, MySQL e Firebase
+- Possuo 6 anos de experiência em desenvolvimento web
+- 3 anos de Desenvolvimento Mobile
 
 Acesse meu portfólio! -> https://netson-portfolio.vercel.app
 
@@ -23,6 +23,8 @@ Acesse meu portfólio! -> https://netson-portfolio.vercel.app
     <img align="justify" alt="Javascript Logo" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="justify" alt="Typescript  Logo" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img  align="justify" alt="React Logo" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img align="justify" alt="Flutter Logo" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img align="justify" alt="Dart Logo" height="60" widht="80" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" />
     <img align="justify" alt="Node Logo" height="60" widht="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
     <img align="justify" alt="HTML Logo" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img align="justify" alt="CSS Logo" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
