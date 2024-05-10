@@ -2,7 +2,7 @@
 <h3 align="center">Sou apaixonado por tecnologia e programação</h3>
 
 - Desenvolvedor fullstack
-- Atualmente atuo como Desenvolvedor Júnior, utilizando Flutter, NodeJs, MySQL e Firebase
+- Atualmente atuo como Desenvolvedor Pleno, utilizando Flutter, NodeJs, MySQL e Firebase
 - Possuo 6 anos de experiência em desenvolvimento web
 - 3 anos de Desenvolvimento Mobile
 
