@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>
-      🇧🇷 Sou um desenvolvedor **Fullstack** apaixonado, com experiência em **Flutter**, **Node.js** e **Vue.js**, atualmente atuando como **Desenvolvedor Pleno**. Gosto de construir aplicações escaláveis e já trabalhei com várias tecnologias, incluindo **MongoDB**, **MySQL**, **PostgreSQL**, **React**, **Next.js** e **React Native**. <br><br> Estou sempre disposto a aprender e atualmente estou explorando mais a fundo a tecnologia **WebSocket** e o empolgante mundo da **Inteligência Artificial**. Adoro resolver problemas, otimizar experiências de usuário e dar vida a ideias através do código.<br><br> Sinta-se à vontade para explorar meus repositórios ou entrar em contato para colaborar!
-    </td>
-    <td>
-      🇺🇸 I'm a passionate **Fullstack Developer** with experience in **Flutter**, **Node.js**, and **Vue.js**, currently working as a **Mid-Level Developer**. I enjoy building scalable applications and have worked with various technologies including **MongoDB**, **MySQL**, **PostgreSQL**, **React**, **Next.js**, and **React Native**.<br><br>I'm always eager to learn and am currently diving deeper into **WebSocket** technology and exploring the exciting world of **Artificial Intelligence**. I love problem-solving, optimizing user experiences, and bringing ideas to life through code.<br><br>Feel free to explore my repositories or reach out to collaborate!
-    </td>
+  🇧🇷 Sou um desenvolvedor Fullstack apaixonado, com experiência em Flutter, Node.js e Vue.js, atualmente atuando como Desenvolvedor Pleno. Gosto de construir aplicações escaláveis e já trabalhei com várias tecnologias, incluindo MongoDB, MySQL, PostgreSQL, React, Next.js e React Native. <br><br> Estou sempre disposto a aprender e atualmente estou explorando mais a fundo a tecnologia WebSocket e o empolgante mundo da Inteligência Artificial. Adoro resolver problemas, otimizar experiências de usuário e dar vida a ideias através do código.<br><br> Sinta-se à vontade para explorar meus repositórios ou entrar em contato para colaborar!
+</td>
+<td>
+  🇺🇸 I'm a passionate Fullstack Developer with experience in Flutter, Node.js, and Vue.js, currently working as a Mid-Level Developer. I enjoy building scalable applications and have worked with various technologies including MongoDB, MySQL, PostgreSQL, React, Next.js, and React Native.<br><br>I'm always eager to learn and am currently diving deeper into WebSocket technology and exploring the exciting world of Artificial Intelligence. I love problem-solving, optimizing user experiences, and bringing ideas to life through code.<br><br>Feel free to explore my repositories or reach out to collaborate!
+
   </tr>
 </table>
 
